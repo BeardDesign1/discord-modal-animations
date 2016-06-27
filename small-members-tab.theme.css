@@ -1,56 +1,34 @@
-//META{"name":"Small-members-tab","description":"make the members tab smaller and gest full size on hover","author":"Beard_Design","version":"1.0.0"}*//{}
-
-/*-------------------made by Beard Design-------------------------*/
-.channel-members{
-    transform:translate(150px);
-    z-index:2;
-    transition:all 300ms ease;
-}
-.channel-members:hover{
-    animation: member 300ms ease;
-    transform:translate(0px);
-}
-.app {
-    overflow-x: hidden;
+//META{"name":"Modal-anim-1","description":"-","author":"Beard_Design","version":"1.0.0"}*//{}
+.modal {
+    opacity: 1!important;
+    transform: scale(1) translateZ(0px)!important;
+    animation:modalanim 300ms cubic-bezier(0,0,0,1);
+    transition:all 100ms;
+    transition-delay:5s;
 }
 
-.channel-members .member .member-activity,
-.channel-members .member .member-username-inner{
-    opacity:0;
-    transition:opacity 300ms ease, margin 100ms ease;
+@keyframes modalanim{
+    from{
+        transform:translate(0,-100%);
+        opacity:0;
+    }
     
+    to{
+        transform:translate(0,0%);
+        opacity:1;
+    }
 }
-.channel-members .member .member-username-inner{
-    margin-bottom:10px;
+span:active .modal{
+    transition-delay:0s;
+    transform:translate(0,100%)!important;
 }
-.channel-members:hover .member .member-activity, .channel-members:hover .member .member-username-inner{
-    opacity:1;
+span:active .modal:hover{
+    transform:translate(0,0)!important;
 }
-.header-toolbar button.active{
-    display:none;
+.callout-backdrop:active {
+    opacity:0!important;
+    transition:all 100ms!important;
 }
-.channel-members h2{
-    transform-origin:left;
-    transform:scale(0.7);
-    padding:0px 0px 0px 10px;
-    transition: all 300ms ease;
+.callout-backdrop{
+    transition-delay:5s;
 }
-.channel-members:hover h2{
-    transform:scale(1);
-    padding:0px 0px 0px 30px;
-}
-.channel-members .avatar-small{
-    transform:scale(1.2);
-}
-.channel-members:hover .avatar-small{
-    transform:scale(1);
-}
-.chat.flex-vertical.flex-spacer>.content.flex-spacer.flex-horizontal>.flex-spacer.flex-vertical{
-    margin-right:-145px;
-    z-index:1
-}
-.chat.flex-vertical.flex-spacer.private>.content.flex-spacer.flex-horizontal>.flex-spacer.flex-vertical{
-    margin-right:0px;
-    z-index:1
-}
-/*-------------------made by Beard Design-------------------------*/
