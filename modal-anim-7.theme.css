@@ -1,0 +1,36 @@
+//META{"name":"Modal-anim-7","description":"-","author":"Beard_Design","version":"1.0.0"}*//{}
+.modal {
+    opacity: 1!important;
+    transform: scale(1) translateZ(0px)!important;
+    animation:modalanim 300ms ease;
+    transition:all 100ms;
+    transition-delay:5s;
+}
+
+@keyframes modalanim{
+    from{
+        transform:scale(0)rotate(0deg);
+        opacity:0;
+    }
+    
+    to{
+        transform:scale(1)rotate(360deg);
+        opacity:1;
+    }
+}
+span:active .modal{
+    transition-delay:0s;
+    transform:scale(0)rotate(0deg)!important;
+    opacity:0!important;
+}
+span:active .modal:hover{
+    transform:scale(1)rotate(360deg)!important;
+    opacity:1!important;
+}
+.callout-backdrop:active {
+    opacity:0!important;
+    transition:all 100ms!important;
+}
+.callout-backdrop{
+    transition-delay:5s;
+}
