@@ -5,32 +5,32 @@ I'll be adding more, so check this page sometimes!
 
 **modal-anim-1**
 
-> [PREVIEW](https://up1.ca/#6Ey6NIIfA5UOYAfaFaWJUA)
+> [PREVIEW](https://gfycat.com/SecondJauntyDassierat)
 
 **modal-anim-2**
 
-> [PREVIEW](https://up1.ca/#ryR649HVnBch7mDPzW-usw)
+> [PREVIEW](https://gfycat.com/HiddenLeanAnnelida)
 
 **modal-anim-3**
 
-> [PREVIEW](https://up1.ca/#_OTnqFayO-N2uyCOpxBjZg)
+> [PREVIEW](https://gfycat.com/InformalPowerlessColt)
 
 **modal-anim-4**
 
-> [PREVIEW](https://up1.ca/#xoTtHdrzdi5rDLAoHhKtZQ)
+> [PREVIEW](https://gfycat.com/UnpleasantGrippingClownanemonefish)
 
 **modal-anim-5**
 
-> [PREVIEW](https://up1.ca/#x5VoTE9RtisVVNsxsXBtHw)
+> [PREVIEW](https://gfycat.com/AgileKindChamois)
 
 **modal-anim-6**
 
-> [PREVIEW](https://up1.ca/#vkNjNqWmKpq2ntkbI0tR9Q)
+> [PREVIEW](https://gfycat.com/AmpleAptDwarfrabbit)
 
 **modal-anim-7**
 
-> [PREVIEW](https://up1.ca/#viuQNP2rJABGQfCe_RI5Kw)
+> [PREVIEW](https://gfycat.com/GraciousInfatuatedAntipodesgreenparakeet)
 
 **modal-anim-8**
 
-> [PREVIEW](https://up1.ca/#IhTIgzyacECyQKH5pDVPcQ)
+> [PREVIEW](https://gfycat.com/InstructiveRealisticKangaroo)
