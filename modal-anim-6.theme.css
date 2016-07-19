@@ -1,4 +1,5 @@
 //META{"name":"Modal-anim-6","description":"-","author":"Beard_Design","version":"1.0.0"}*//{}
+
 .modal {
     opacity: 1!important;
     transform: scale(1) translateZ(0px)!important;
