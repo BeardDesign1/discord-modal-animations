@@ -5,32 +5,32 @@ I'll be adding more, so check this page sometimes!
 
 **modal-anim-1**
 
-> [PREVIEW](https://gfycat.com/SecondJauntyDassierat)
+> ![PREVIEW](http://bearddesign.s-ul.eu/UqMZ0WHv.gif)
 
 **modal-anim-2**
 
-> [PREVIEW](https://gfycat.com/HiddenLeanAnnelida)
+> ![PREVIEW](http://bearddesign.s-ul.eu/udhNXdRk.gif)
 
 **modal-anim-3**
 
-> [PREVIEW](https://gfycat.com/InformalPowerlessColt)
+> ![PREVIEW](http://bearddesign.s-ul.eu/bNLRyMA7.gif)
 
 **modal-anim-4**
 
-> [PREVIEW](https://gfycat.com/UnpleasantGrippingClownanemonefish)
+> ![PREVIEW](http://bearddesign.s-ul.eu/XNksr5Mh.gif)
 
 **modal-anim-5**
 
-> [PREVIEW](https://gfycat.com/AgileKindChamois)
+> ![PREVIEW](http://bearddesign.s-ul.eu/qIZUK5Y7.gif)
 
 **modal-anim-6**
 
-> [PREVIEW](https://gfycat.com/AmpleAptDwarfrabbit)
+> ![PREVIEW](http://bearddesign.s-ul.eu/mFPkBhry.gif)
 
 **modal-anim-7**
 
-> [PREVIEW](https://gfycat.com/GraciousInfatuatedAntipodesgreenparakeet)
+> ![PREVIEW](http://bearddesign.s-ul.eu/n4zwbSbf.gif)
 
 **modal-anim-8**
 
-> [PREVIEW](https://gfycat.com/InstructiveRealisticKangaroo)
+> ![PREVIEW](http://bearddesign.s-ul.eu/kREgwDMX.gif)
