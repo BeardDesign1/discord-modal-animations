@@ -1,5 +1,5 @@
 # Discord Modal animations
-These are some Modal animations for [Beard's material design theme](https://github.com/BeardDesign1/Material-design-theme)
+Checkout my full Discord theme: [Beard's material design theme](https://github.com/BeardDesign1/Material-design-theme)
 
 I'll be adding more, so check this page sometimes!
 
